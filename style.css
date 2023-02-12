@@ -1,0 +1,50 @@
+*{margin: 0px;
+padding: 0px;
+box-sizing: border-box;}
+
+.layout{width: 1440px;
+height: 3981px;
+overflow: hidden;
+background-color: aqua;}
+
+header{width: 1440px;
+height: 799px;
+background-color: #284854;}
+
+.block{display: inline-block;
+width: 1230px;
+height: 81px; 
+background-color: #60C1BD;
+margin-top: 23px;
+margin-right: 97px;
+margin-bottom: 0px;
+margin-left: 113px;
+border-radius: 100px;}
+
+.block1{display: inline-block;}
+
+.card1{
+width: 125px;
+height: 33px;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+color: #FFFFFF;;
+margin-top: 27px;
+margin-right: 1073px;
+margin-bottom: 21px;
+margin-left: 32px;}
+
+.card2{width: 109px;
+    height: 25px;
+    margin-top: 33px;
+margin-right: 659px;
+margin-bottom: 23px;
+margin-left: 453px;}
+
+.absolute{position: relative;}
+
+
+
+.clear{clear: both;}
+
