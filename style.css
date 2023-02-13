@@ -14,6 +14,9 @@ background-color: #284854;}
 .block{display: inline-block;
 width: 1230px;
 height: 81px; 
+font-size: 18px;
+font-weight: 400;
+color: #284854;
 background-color: #60C1BD;
 margin-top: 23px;
 margin-right: 97px;
@@ -21,30 +24,62 @@ margin-bottom: 0px;
 margin-left: 113px;
 border-radius: 100px;}
 
-.block1{display: inline-block;}
 
-.card1{
+.left{
 width: 125px;
 height: 33px;
-font-weight: 400;
 font-size: 30px;
-line-height: 35px;
 color: #FFFFFF;;
-margin-top: 27px;
-margin-right: 1073px;
+margin-top: 50px;
+margin-right: 305px;
 margin-bottom: 21px;
 margin-left: 32px;}
 
-.card2{width: 109px;
-    height: 25px;
-    margin-top: 33px;
-margin-right: 659px;
+
+
+.first{width: 109px;
+height: 25px;
+margin-top: 33px;
+margin-right: 84px;
 margin-bottom: 23px;
-margin-left: 453px;}
+margin-left: 305;}
 
-.absolute{position: relative;}
+.second{width: 77px;
+height: 25px;
+margin-top: 36px;
+margin-right: 95px;
+margin-bottom: 20px;}
 
-
+.fourth{width: 77px ;
+height: 25px;
+margin-top: 36px;
+margin-right: 95px;
+margin-bottom: 20px;
+}
+button{width: 36px;
+height: 19px;}
 
 .clear{clear: both;}
+
+
+h1{width: 712px;
+height: 204px;
+font-weight: 400;
+font-size: 85px;
+color: #8BC441;
+margin-top: 119px;
+margin-right: 48.55px;
+margin-bottom: 60px;
+margin-left: 120px;}
+
+p{width: 542px;
+height: 112px;
+font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+margin-top: 60px;
+margin-right: 218.55px;
+margin-bottom: 200px;
+margin-left: 180px;}
+
 
