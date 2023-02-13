@@ -68,8 +68,8 @@ font-weight: 400;
 font-size: 85px;
 color: #8BC441;
 margin-top: 119px;
-margin-right: 48.55px;
-margin-bottom: 60px;
+margin-right: 0px;
+margin-bottom: 0px;
 margin-left: 120px;}
 
 p{width: 542px;
@@ -78,8 +78,14 @@ font-weight: 400;
 font-size: 20px;
 color: #FFFFFF;
 margin-top: 60px;
-margin-right: 218.55px;
-margin-bottom: 200px;
+margin-right: 0px;
+margin-bottom: 0px;
 margin-left: 180px;}
 
+img{float: right;
+margin-top: 0px;
+margin-right: 186.84px;
+margin-bottom:0px;
+margin-left: 0px;
+}
 
