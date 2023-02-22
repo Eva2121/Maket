@@ -5,13 +5,14 @@ box-sizing: border-box;}
 .layout{width: 1440px;
 height: 3981px;
 overflow: hidden;
-background-color: aqua;}
+background-color: #edf0f4;}
 
 header{width: 1440px;
 height: 799px;
 background-color: #284854;}
 
 .block{display: inline-block;
+padding-top: 20px;
 width: 1230px;
 height: 81px; 
 font-size: 18px;
@@ -89,3 +90,137 @@ margin-bottom:0px;
 margin-left: 0px;
 }
 
+.images{
+border: 2px solid #000;
+background-color: #F4F6F0;
+width: 506px;
+height: 203px;
+float: left;
+margin-top: 100px;
+margin-right: 300px;
+margin-bottom: 0px;
+margin-left: 50px;}
+
+.img{
+border: 2px solid #000;
+background-color: #F4F6F0;
+width: 506px;
+height: 203px;
+float: right;
+margin-top: 0px;
+margin-right: 150px;}
+
+h4{margin-top: 500px;
+text-align: center;
+font-size: 22px;
+color: #60C1BD;
+}
+h2{text-align: center;
+font-size: 55px;
+color: #284854;}
+
+.content{float: left;
+    margin-top: 143px;
+margin-left: 231px;
+}
+.text{font-size: 20px;
+color: #798B56;
+margin-top: 159px;}
+
+.desk{font-size: 40px;
+color: #8BC441;}
+
+.lead{size: 16px;
+color: #284854;
+margin-right: 269px;
+margin-bottom: 193px;}
+
+.tegline{margin-left: 285px;
+margin-right: 704px;}
+
+.slogan{float: left;
+margin-left: 199px;
+}
+
+
+.aside{width: 1440px;
+height: 601px;
+overflow: hidden;
+background-color: 
+#F4F6F0;
+padding-top: 83px;}
+
+.item{margin-top: 73px;
+margin-left: 191px;
+margin-bottom: 5px;
+margin-right: 100px;
+text-align: left;}
+
+.cite{margin-top: 58px;
+margin-left: 780px;
+margin-right: 548px;
+border: 1px solid 
+#60C1BD;
+color: 
+#60C1BD;
+width: 112px;
+height: 22px;
+text-align: center;}
+
+.widget{width: 1440px;
+    height: 438px;
+    overflow: hidden;
+    background-color: 
+    #8BC441;
+}
+
+.pic{margin-top: 89.6px;}
+.head{font-size: 55px;
+   margin-top: 86px;
+   margin-right: 339px;
+color:#FFFFFF;}
+
+.active{
+font-weight: 400;
+margin-top: 57px;
+margin-left: 585px;
+color: #FFFFFF;
+height: 81px;
+width: 239px;}
+.current{float: right;
+    margin-top: 0px ;
+margin-right: 274px;
+color: #FFFFFF;
+height: 81px;
+width: 239px;}
+
+
+footer{width: 1440px;
+height: 438px;
+overflow: hidden;
+padding: 50px;
+background-color: #F4F6F0;}
+
+
+
+.find{display: block;
+float: right;
+color: 
+#284854;
+font-weight: 400;}
+
+
+
+.hos{display: block;
+float: right;
+margin-right: 150px;
+color: #284854;}
+
+
+.vet{color: #284854;}
+
+
+.contacs{margin-top: 71px;
+color: #284854;}
+
+span{margin: 20px;}
